@@ -49,3 +49,35 @@ full on compilation to machine-code.
  * Macros
  * Instruction set optimization
 
+## Exercises for Section 1.3
+
+### Exercise 1.3.1
+
+> Indicate which of the following terms:
+
+```
+    a) imperative         b) declarative  c) von Neumann
+    c) object-oriented    d) functional   e) third-generation
+    g) fourth-generation  h) scripting
+```
+
+> apply to which of the following languages:
+
+```
+    1) C      2) C++    3) Cobol    4) Fortran    5) Java
+    6) Lisp   7) ML     8) Perl     9) Python    10) VB
+```
+
+| Language  | Classification  |
+|-----------|-----------------|
+| C         | third-generation, imperative, von Neuman      |
+| C++       | third-generation, imperative, object-oriented |
+| Cobol     | third-generation,
+| Fortran   | third-generation, von Neuman
+| Java      | third-generation, imperative, object-oriented |
+| Lisp      | third-generation,
+| ML        | functional
+| Perl      | fourth-generation, scripting
+| Python    | fourth-generation, scripting
+| VB        | third-generation, object-oriented
+
